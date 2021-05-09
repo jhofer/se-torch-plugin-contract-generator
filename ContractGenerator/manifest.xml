@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Name>ContractGenerator</Name>
+	<Guid>96ED4DD2-D2DC-43C5-B218-98E4E246F0BD</Guid>
+	<Repository>None</Repository>
+	<Version>v1.0.0</Version>
+</PluginManifest>
